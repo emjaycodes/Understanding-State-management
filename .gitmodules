@@ -1,0 +1,19 @@
+[submodule "bloc_state_management"]
+	path = /bloc_state_management
+	url = https://github.com/emjaycodes/bloc_state_management
+
+[submodule "redux_state_management"]
+    path = /redux_state_management
+    url = https://github.com/emjaycodes/redux_state_management
+
+[submodule "provider_state_management"]
+    path = /provider_state_management
+    url = https://github.com/emjaycodes/provider_state_management
+
+[submodule "stateful_widget"]
+    path = /stateful_widget
+    url = https://github.com/emjaycodes/stateful_widget
+
+[submodule "state_management"]
+    path = /state_management
+    url = https://github.com/emjaycodes/stateful_widget         
